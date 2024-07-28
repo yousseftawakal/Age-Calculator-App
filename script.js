@@ -88,9 +88,9 @@ window.onload = () => {
         inError.classList.add("error-border");
       });
       val = false;
-    } else if (year.value < 0 || year.value > date.getFullYear() || date > today) {
+    } else if (year.value < 0 || year.value > today.getFullYear() || date > today) {
       if (year.value < 0) year.parentNode.querySelector(".error-msg").textContent = `Must be a valid year`;
-      else if (year.value > date.getFullYear() || date > today)
+      else if (year.value > today.getFullYear() || date > today)
         year.parentNode.querySelector(".error-msg").textContent = `Must be in past`;
 
       document.querySelectorAll("input").forEach((inError) => {
