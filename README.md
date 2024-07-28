@@ -1,6 +1,6 @@
 # Age Calculator App
 
-![Age Calculator App](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_900/Screenshots/eqeztulm7vzm6otgvkam.jpg)
+![Age Calculator App](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_900/Screenshots/vjzvgx4ytiv2rnijxuqh.jpg)
 
 
 ## Overview
