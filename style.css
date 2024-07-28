@@ -61,7 +61,6 @@ input {
   padding: 12px 25px;
   max-width: 170px;
   width: 100%;
-  min-width: none;
   border: solid 1px var(--lightGrey);
   color: var(--offBlack);
   caret-color: var(--purple);
