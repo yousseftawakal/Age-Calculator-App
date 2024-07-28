@@ -62,7 +62,7 @@ input {
   max-width: 170px;
   width: 100%;
   min-width: none;
-  border: solid 2px var(--lightGrey);
+  border: solid 1px var(--lightGrey);
   color: var(--offBlack);
   caret-color: var(--purple);
   border-radius: 10px;
