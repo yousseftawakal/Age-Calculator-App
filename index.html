@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png" />
+
+    <title>Frontend Mentor | Age calculator app</title>
+    <link rel="stylesheet" href="style.css" />
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <main class="card">
+      <div class="date">
+        <div class="input-div">
+          <label for="day">DAY</label>
+          <input type="number" id="day" placeholder="DD" />
+          <span class="error-msg"></span>
+        </div>
+        <div class="input-div">
+          <label for="month">MONTH</label>
+          <input type="number" id="month" placeholder="MM" />
+          <span class="error-msg"></span>
+        </div>
+        <div class="input-div">
+          <label for="year">YEAR</label>
+          <input type="number" id="year" placeholder="YYYY" />
+          <span class="error-msg"></span>
+        </div>
+      </div>
+      <div class="break">
+        <hr />
+        <button class="btn" id="show">
+          <div><img src="assets/images/icon-arrow.svg" alt="" /></div>
+        </button>
+        <hr />
+      </div>
+      <div class="result">
+        <span><span class="purple" id="years">- -</span> years</span>
+        <span><span class="purple" id="months">- -</span> months</span>
+        <span><span class="purple" id="days">- -</span> days</span>
+      </div>
+    </main>
+  </body>
+</html>
