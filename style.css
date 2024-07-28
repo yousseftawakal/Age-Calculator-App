@@ -194,6 +194,10 @@ hr:last-of-type {
     font-size: 0.8em;
   }
 
+  .break {
+    margin: 25px 0;
+  }
+
   .btn div {
     width: 25px;
     height: 25px;
