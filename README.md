@@ -35,7 +35,7 @@ Users should be able to:
 ## Links
 
 - [Solution](https://www.frontendmentor.io/solutions/age-calculator-app-oLsg1chHO0)
-- [Live Site](https://pr0g-alt.github.io/Age-Calculator-App/)
+- [Live Site](https://yousseftawakal.github.io/Age-Calculator-App/)
 
 
 ## Built with
@@ -50,7 +50,7 @@ Users should be able to:
 
 Feel free to reach out to me if you have any questions or suggestions:
 
-- GitHub: [pr0G-alt](https://github.com/pr0G-alt)
+- GitHub: [pr0G-alt](https://github.com/yousseftawakal)
 - Email: pr0.G@outlook.com
 
 
